@@ -1,4 +1,3 @@
-const knex = require("../database/knex") // conexão com o banco de dados
 const AppError = require("../utils/AppError")
 const { compare } = require("bcryptjs")
 
